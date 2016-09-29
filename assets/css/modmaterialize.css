@@ -1,0 +1,11 @@
+.lean-overlay{
+  display:none;
+}
+
+#scheduleCard{
+  width: 40%;
+}
+
+#noteCard{
+  width: 40%;
+}

@@ -1,0 +1,176 @@
+h4{
+  color: #fff;
+}
+
+div#infospace {
+	background-color: #42a5f5;
+}
+
+header, main {
+	padding-left: 230px;
+}
+
+#sidebar {
+  color: #fff;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#sidebarB {
+	width: 15%;
+}
+
+#header {
+	height: 25px;
+}
+
+div#map {
+	height: 775px;
+	width: 100%;
+}
+
+div#wikiarticle {
+	width: 100%;
+}
+
+div#weather, #information {
+	height: 700px;
+}
+
+div#rightpanel {
+	height: 100%;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	display: none;
+}
+
+img#clear, #mostlycloudy, #cloudy, #rainy, #stormy, #snowy, #clearB, #mostlycloudyB, #cloudyB, #rainyB, #stormyB, #snowyB, #clearC, #mostlycloudyC, #cloudyC, #rainyC, #stormyC, #snowyC {
+	display: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div#dayA, #dayB {
+	margin-top: 100px;
+	height: 400px;
+	border-right: groove;
+	border-color: white;
+	display: none;
+}
+
+div#dayC {
+	margin-top: 100px;
+	height: 400px;
+	border-color: white;
+	display: none;
+
+}
+
+div#wikiarticle {
+	height: 100%;
+	margin-top: 25px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+div#filler {
+	height: 120px;
+	position: fixed;
+	bottom: 0;
+}
+
+  /* label color */
+.input-field label {
+    color: #c0c0c0  ;
+}
+   /* label focus color */
+.input-field input[type=text]:focus + label {
+    color: #fff;
+}
+   /* label underline focus color */
+.input-field input[type=text]:focus {
+  color: #fff;
+    border-bottom: 1px solid #ffffff;
+    box-shadow: 0 1px 0 0 #ffffff;
+}
+   /* valid color */
+.input-field input[type=text].valid {
+    color: #fff;
+    border-bottom: 1px solid #ffffff;
+    box-shadow: 0 1px 0 0 #ffffff;
+}
+   /* invalid color */
+.input-field input[type=text].invalid {
+    color: #fff;
+    border-bottom: 1px solid #ffffff;
+    box-shadow: 0 1px 0 0 #ffffff;
+}
+   /* icon prefix focus color */
+.input-field .prefix.active {
+    color: #fff;
+}
+
+input#origin{
+  color: #fff;
+}
+
+input#destination{
+  color: #fff;
+}
+
+#empty, #fontA, #fontB, #fontC {
+  color: #fff;
+	height: 120px;
+  	text-align: center;
+}
+
+#giticon, #mapicon, #wikiicon {
+	margin-top: 50px;
+	color: #ffffff;
+}
+
+#schedInput{
+  width: 65%;
+}
+
+#timePicker{
+  width: 25%;
+}
+
+div#notes {
+  margin-top:10px;
+}
+
+#modal1{
+  background-color: inherit;
+}
+
+#modal2{
+  height: 75% !important;
+  background-color: inherit;
+}
+
+#schedule{
+  background-color: #2196F3;
+}
+
+.modal-footer{
+  color: #fff !important;
+  background-color: #2196F3 !important;
+}
+
+.modal-action{
+  color: #fff !important;
+}
+
+.btn{
+  color: #fff !important;
+}
+
+#noteInput{
+  color: #000;
+}
+
+#notes{
+  color: #000;
+}
